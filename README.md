@@ -25,5 +25,5 @@ After finishing university I started working at SAP on distributed sales system 
 
 <h3>🔭 and technologies :</h3>
 
-<span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, GraphQL, REST, SOAP, Apache Kafka, Docker, Azure, AWS</span>
+<span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, Postgres, GraphQL, REST, SOAP, Apache Kafka, Redis, Docker, Azure, AWS</span>
 
