@@ -14,15 +14,16 @@
                     src="https://img.shields.io/badge/svarog--0-%23121011.svg?logo=github&logoColor=white" /></a></td>
     </tr>
 </table>
- <h3> 🔧 Currently working with </h3>
-
- <span> C#, TypeScript, JavaScript, SQL, HTML, CSS </span>
-
- <h3>🔭 Some experiance in  </h3>
-
- <span> python, golang, PHP, bash, powershell </span>
-
 <h3>📜</h3>
 <p>
 After finishing university I started working at SAP on distributed sales system CPQ. I'm motivated by interesting problems and clever solutions. I get a kick out of figuring out things. I come from C#/Angular/Azure background, but I'm also familiar with nodejs/express. Interested in working on distributed systems regardless of choice of language. 
 </p>
+
+ <h3> 🔧Currently interested in languages: </h3>
+
+ <span> C#, TypeScript, JavaScript, SQL, HTML, CSS, python, golang, PHP, bash, powershell </span>
+
+<h3>🔭 and technologies :</h3>
+
+<span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, GraphQL, REST, SOAP, Apache Kafka, Docker, Azure, AWS</span>
+
