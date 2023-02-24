@@ -18,12 +18,12 @@
 <p>
 After finishing university I started working at SAP on distributed sales system CPQ. I'm motivated by interesting problems and clever solutions. I get a kick out of figuring out things. I come from C#/Angular/Azure background, but I'm also familiar with nodejs/express. Interested in working on distributed systems regardless of choice of language. 
 </p>
-
- <h3> 🔧Currently interested in languages: </h3>
+    
+ <h3> 🔧Currently interested and have experiance in languages: </h3>
 
  <span> C#, TypeScript, JavaScript, SQL, HTML, CSS, python, golang, PHP, bash, powershell </span>
 
 <h3>🔭 and technologies :</h3>
 
-<span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, Postgres, GraphQL, REST, SOAP, Apache Kafka, Redis, Docker, Azure, AWS</span>
+<span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, Postgres, GraphQL, REST, SOAP, Apache Kafka, Redis, Docker, Azure, AWS, k8s, DevOps Pipelines, Selenium</span>
 
