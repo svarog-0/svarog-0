@@ -16,7 +16,7 @@
 </table>
 <h3>📜</h3>
 <p>
-After finishing university I started working at SAP on distributed sales system CPQ. I'm motivated by interesting problems and clever solutions. I get a kick out of figuring out things. I come from C#/Angular/Azure background, but I'm also familiar with nodejs/express. Interested in working on distributed systems regardless of choice of language. 
+4+ years working at SAP on distributed sales system CPQ. I'm motivated by interesting problems and clever solutions. I get a kick out of figuring out things. I come from C#/Angular/Azure background, but I'm also familiar with nodejs/express. Interested in working on distributed systems regardless of choice of language. 
 </p>
     
  <h3> 🔧Currently interested and have experiance in languages: </h3>
