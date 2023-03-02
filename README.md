@@ -26,6 +26,4 @@
 <h3>🔭 and technologies :</h3>
 
 <span> ASP.NET, .NET Core/6, Angular, React, NodeJS, Express.js, Next.js, SQL Server, Postgres, GraphQL, REST, SOAP, Apache Kafka, Redis, Docker, Azure, k8s, DevOps Pipelines, Selenium</span>
-    
-<span>Currently for my work at SAP I use private entriprise github account.</span>
 
