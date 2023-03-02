@@ -16,7 +16,13 @@
 </table>
 <h3>📜</h3>
 <p>
-4+ years working at SAP on distributed sales system CPQ. I'm motivated by interesting problems and clever solutions. I get a kick out of figuring out things. I come from C#/Angular/Azure background, but I'm also familiar with nodejs/express. Interested in working on distributed systems regardless of choice of language. 
+I have over four years of experience working at SAP on cloud CPQ systems, where I have contributed to the development of this technology. I have also personally designed and developed a microservice for the cloud CPQ system.
+
+Beyond my work at SAP, I have gained additional experience working on freelance projects, such as politicki-kompas.azurewebsites.net. I am driven by challenging problems and innovative solutions, and I thrive on exploring new technologies.
+
+My skillset includes expertise in C#, Javascript/Typescript, and Angular. I am particularly interested in working on distributed systems, and I am open to working with any language, although I have a preference for Golang/NodeJs.
+
+When I'm not working, I enjoy pursuing my passions for cooking and travel.
 </p>
     
  <h3> 🔧Currently interested and have experiance in languages: </h3>
