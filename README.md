@@ -5,7 +5,7 @@
     </tr>
     <tr>
         <td colspan='2'><a href="https://goo.gl/maps/RY5UUXbhT2gVSM9E7"><img
-                    src="https://img.shields.io/badge/%F0%9F%8C%8D%20GMT%2B2-Belgrade%2C%20Serbia-success" /></a></td>
+                    src="https://img.shields.io/badge/%F0%9F%8C%8D%20GMT%2B1-Belgrade%2C%20Serbia-success" /></a></td>
     </tr>
     <tr>
         <td><a href="https://www.linkedin.com/in/bogdan-radivojevic/"><img
