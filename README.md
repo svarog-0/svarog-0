@@ -18,9 +18,9 @@
 <p>
 I have over four years of experience working at SAP on cloud CPQ systems, where I have contributed to the development of this technology. I have also personally designed and developed a microservice for the cloud CPQ system.
 
-Beyond my work at SAP, I have gained additional experience working on freelance projects, such as politicki-kompas.azurewebsites.net. I am driven by challenging problems and innovative solutions, and I thrive on exploring new technologies.
+Beyond my work at SAP, I have gained additional experience working on freelance projects, such as https://politicki-kompas.svarog-0.dev. I am driven by challenging problems and innovative solutions, and I thrive on exploring new technologies.
 
-My skillset includes expertise in C#, Javascript/Typescript, and Angular. I am particularly interested in working on distributed systems, and I am open to working with any language, although I have a preference for Golang/NodeJs.
+My primary skillset expertise in C#, Javascript/Typescript, and Angular, but I dabble in Nodejs and Golang also. I am particularly interested in working on distributed systems.
 
 When I'm not working, I enjoy pursuing my passions for cooking and travel.
 </p>
